@@ -1,1 +1,1 @@
-# odin-recipies
+In this projet I demonstrated how to link multiple pages together, along with expanding my knowledge on git.
